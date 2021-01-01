@@ -1,0 +1,8 @@
+.nav ul{
+  list-style: none;
+}
+
+.nav ul li {
+  display: inline;
+  font-size: 1.5rem;
+}

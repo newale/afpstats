@@ -1,0 +1,1922 @@
+[
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0411,
+    "runningYearRentability": 0.0411
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0389,
+    "runningYearRentability": 0.0389
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": 0.0412,
+    "runningYearRentability": 0.0412
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": 0.0389,
+    "runningYearRentability": 0.0389
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0398,
+    "runningYearRentability": 0.0398
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0389,
+    "runningYearRentability": 0.0389
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": 0.0352,
+    "runningYearRentability": 0.0352
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": 0.04,
+    "runningYearRentability": 0.04
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0313,
+    "runningYearRentability": 0.0313
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0299,
+    "runningYearRentability": 0.0299
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": 0.0322,
+    "runningYearRentability": 0.0322
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": 0.0296,
+    "runningYearRentability": 0.0296
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0309,
+    "runningYearRentability": 0.0309
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0297,
+    "runningYearRentability": 0.0297
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": 0.0284,
+    "runningYearRentability": 0.0284
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0307,
+    "runningYearRentability": 0.0307
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0209,
+    "runningYearRentability": 0.0209
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0209,
+    "runningYearRentability": 0.0209
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": 0.0224,
+    "runningYearRentability": 0.0224
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": 0.0197,
+    "runningYearRentability": 0.0197
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.021,
+    "runningYearRentability": 0.021
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": 0.02,
+    "runningYearRentability": 0.02
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": 0.02,
+    "runningYearRentability": 0.02
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0211,
+    "runningYearRentability": 0.0211
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0116,
+    "runningYearRentability": 0.0116
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0122,
+    "runningYearRentability": 0.0122
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": 0.0133,
+    "runningYearRentability": 0.0133
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": 0.0109,
+    "runningYearRentability": 0.0109
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0113,
+    "runningYearRentability": 0.0113
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": 0.011,
+    "runningYearRentability": 0.011
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": 0.01,
+    "runningYearRentability": 0.01
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0119,
+    "runningYearRentability": 0.0119
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": 0.005,
+    "runningYearRentability": 0.005
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": 0.007,
+    "runningYearRentability": 0.007
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": 0.0061,
+    "runningYearRentability": 0.0061
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": 0.0043,
+    "runningYearRentability": 0.0043
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0048,
+    "runningYearRentability": 0.0048
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0051,
+    "runningYearRentability": 0.0051
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": 0.0029,
+    "runningYearRentability": 0.0029
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0057,
+    "runningYearRentability": 0.0057
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": -0.044,
+    "runningYearRentability": -0.0047
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0453,
+    "runningYearRentability": -0.0081
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": -0.0443,
+    "runningYearRentability": -0.005
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": -0.0481,
+    "runningYearRentability": -0.0111
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0448,
+    "runningYearRentability": -0.0068
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0438,
+    "runningYearRentability": -0.0066
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": -0.043,
+    "runningYearRentability": -0.0093
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0446,
+    "runningYearRentability": -0.0064
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0376,
+    "runningYearRentability": -0.0074
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0383,
+    "runningYearRentability": -0.0096
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": -0.0352,
+    "runningYearRentability": -0.0041
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": -0.0408,
+    "runningYearRentability": -0.0124
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0378,
+    "runningYearRentability": -0.008
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0379,
+    "runningYearRentability": -0.0093
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": -0.038,
+    "runningYearRentability": -0.0108
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0376,
+    "runningYearRentability": -0.0081
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0368,
+    "runningYearRentability": -0.0167
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0376,
+    "runningYearRentability": -0.0175
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": -0.0342,
+    "runningYearRentability": -0.0125
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": -0.039,
+    "runningYearRentability": -0.02
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0373,
+    "runningYearRentability": -0.0171
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0372,
+    "runningYearRentability": -0.018
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": -0.0357,
+    "runningYearRentability": -0.0165
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0364,
+    "runningYearRentability": -0.0161
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0382,
+    "runningYearRentability": -0.0271
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0381,
+    "runningYearRentability": -0.0263
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": -0.0357,
+    "runningYearRentability": -0.0229
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": -0.0386,
+    "runningYearRentability": -0.0281
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0381,
+    "runningYearRentability": -0.0272
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0381,
+    "runningYearRentability": -0.0275
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": -0.0378,
+    "runningYearRentability": -0.0282
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0376,
+    "runningYearRentability": -0.0261
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0291,
+    "runningYearRentability": -0.0243
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0291,
+    "runningYearRentability": -0.0223
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": -0.0268,
+    "runningYearRentability": -0.0208
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": -0.0291,
+    "runningYearRentability": -0.0249
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0288,
+    "runningYearRentability": -0.0242
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": -0.032,
+    "runningYearRentability": -0.0271
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": -0.0291,
+    "runningYearRentability": -0.0263
+  },
+  {
+    "year": 2020,
+    "month": 2,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0288,
+    "runningYearRentability": -0.0233
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": -0.1665,
+    "runningYearRentability": -0.1704
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": -0.1655,
+    "runningYearRentability": -0.1723
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": -0.1619,
+    "runningYearRentability": -0.1661
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": -0.1715,
+    "runningYearRentability": -0.1807
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.163,
+    "runningYearRentability": -0.1687
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": -0.1651,
+    "runningYearRentability": -0.1706
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": -0.1651,
+    "runningYearRentability": -0.1729
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": -0.1649,
+    "runningYearRentability": -0.1702
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": -0.1357,
+    "runningYearRentability": -0.1421
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": -0.1374,
+    "runningYearRentability": -0.1457
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": -0.1313,
+    "runningYearRentability": -0.1349
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": -0.1373,
+    "runningYearRentability": -0.148
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.1339,
+    "runningYearRentability": -0.1408
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": -0.137,
+    "runningYearRentability": -0.145
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": -0.1331,
+    "runningYearRentability": -0.1425
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": -0.1353,
+    "runningYearRentability": -0.1422
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": -0.1011,
+    "runningYearRentability": -0.1161
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": -0.1068,
+    "runningYearRentability": -0.1224
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": -0.0983,
+    "runningYearRentability": -0.1095
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": -0.1019,
+    "runningYearRentability": -0.1199
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.1029,
+    "runningYearRentability": -0.1183
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": -0.1037,
+    "runningYearRentability": -0.1198
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": -0.1018,
+    "runningYearRentability": -0.1166
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": -0.102,
+    "runningYearRentability": -0.1164
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0714,
+    "runningYearRentability": -0.0965
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0745,
+    "runningYearRentability": -0.0989
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": -0.0685,
+    "runningYearRentability": -0.0898
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": -0.0683,
+    "runningYearRentability": -0.0945
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0729,
+    "runningYearRentability": -0.0982
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0747,
+    "runningYearRentability": -0.1002
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": -0.0659,
+    "runningYearRentability": -0.0922
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0722,
+    "runningYearRentability": -0.0964
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0307,
+    "runningYearRentability": -0.0543
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0214,
+    "runningYearRentability": -0.0432
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": -0.022,
+    "runningYearRentability": -0.0424
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": -0.0223,
+    "runningYearRentability": -0.0467
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.029,
+    "runningYearRentability": -0.0524
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0311,
+    "runningYearRentability": -0.0574
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": -0.0233,
+    "runningYearRentability": -0.049
+  },
+  {
+    "year": 2020,
+    "month": 3,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0254,
+    "runningYearRentability": -0.0481
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0855,
+    "runningYearRentability": -0.0995
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": 0.084,
+    "runningYearRentability": -0.1027
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": 0.0847,
+    "runningYearRentability": -0.0954
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": 0.0906,
+    "runningYearRentability": -0.1065
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0869,
+    "runningYearRentability": -0.0965
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0899,
+    "runningYearRentability": -0.096
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": 0.0851,
+    "runningYearRentability": -0.1026
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0861,
+    "runningYearRentability": -0.0987
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0768,
+    "runningYearRentability": -0.0762
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0768,
+    "runningYearRentability": -0.0801
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": 0.0755,
+    "runningYearRentability": -0.0695
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": 0.0831,
+    "runningYearRentability": -0.0772
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0791,
+    "runningYearRentability": -0.0729
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0819,
+    "runningYearRentability": -0.0751
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": 0.0767,
+    "runningYearRentability": -0.0767
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0786,
+    "runningYearRentability": -0.0748
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0744,
+    "runningYearRentability": -0.0503
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0734,
+    "runningYearRentability": -0.058
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": 0.0732,
+    "runningYearRentability": -0.0444
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": 0.075,
+    "runningYearRentability": -0.0539
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0729,
+    "runningYearRentability": -0.054
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0785,
+    "runningYearRentability": -0.0506
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": 0.0716,
+    "runningYearRentability": -0.0534
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": 0.075,
+    "runningYearRentability": -0.0502
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0682,
+    "runningYearRentability": -0.0349
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0691,
+    "runningYearRentability": -0.0366
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": 0.0654,
+    "runningYearRentability": -0.0302
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": 0.0656,
+    "runningYearRentability": -0.0351
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0645,
+    "runningYearRentability": -0.0401
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": 0.072,
+    "runningYearRentability": -0.0354
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": 0.0674,
+    "runningYearRentability": -0.031
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0687,
+    "runningYearRentability": -0.0343
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0522,
+    "runningYearRentability": -0.0049
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0502,
+    "runningYearRentability": 0.0048
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": 0.0469,
+    "runningYearRentability": 0.0025
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": 0.0503,
+    "runningYearRentability": 0.0012
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0436,
+    "runningYearRentability": -0.0111
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0576,
+    "runningYearRentability": -0.0031
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": 0.0492,
+    "runningYearRentability": -0.0022
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0506,
+    "runningYearRentability": 0
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": -0.0066,
+    "runningYearRentability": -0.1054
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": -0.0067,
+    "runningYearRentability": -0.1087
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": -0.0071,
+    "runningYearRentability": -0.1019
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": -0.0047,
+    "runningYearRentability": -0.1106
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": -0.0084,
+    "runningYearRentability": -0.1041
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": -0.0033,
+    "runningYearRentability": -0.099
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": -0.0053,
+    "runningYearRentability": -0.1074
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": -0.0061,
+    "runningYearRentability": -0.1042
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0079,
+    "runningYearRentability": -0.0689
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0049,
+    "runningYearRentability": -0.0755
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": 0.0051,
+    "runningYearRentability": -0.0648
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": 0.0086,
+    "runningYearRentability": -0.0692
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0079,
+    "runningYearRentability": -0.0656
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0085,
+    "runningYearRentability": -0.0671
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": 0.0048,
+    "runningYearRentability": -0.0722
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0069,
+    "runningYearRentability": -0.0683
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0275,
+    "runningYearRentability": -0.0242
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0261,
+    "runningYearRentability": -0.0335
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": 0.0255,
+    "runningYearRentability": -0.02
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": 0.0281,
+    "runningYearRentability": -0.0274
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0274,
+    "runningYearRentability": -0.0281
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0291,
+    "runningYearRentability": -0.023
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": 0.0253,
+    "runningYearRentability": -0.0294
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0271,
+    "runningYearRentability": -0.0244
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0447,
+    "runningYearRentability": 0.0083
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0417,
+    "runningYearRentability": 0.0036
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": 0.0414,
+    "runningYearRentability": 0.0099
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": 0.0446,
+    "runningYearRentability": 0.0079
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0438,
+    "runningYearRentability": 0.002
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0466,
+    "runningYearRentability": 0.0095
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": 0.0418,
+    "runningYearRentability": 0.0095
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": 0.044,
+    "runningYearRentability": 0.0082
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": 0.04,
+    "runningYearRentability": 0.0349
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0351,
+    "runningYearRentability": 0.0401
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": 0.0368,
+    "runningYearRentability": 0.0394
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": 0.0418,
+    "runningYearRentability": 0.0431
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0414,
+    "runningYearRentability": 0.0299
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0438,
+    "runningYearRentability": 0.0405
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": 0.0351,
+    "runningYearRentability": 0.0328
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0389,
+    "runningYearRentability": 0.0387
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0534,
+    "runningYearRentability": -0.0576
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0519,
+    "runningYearRentability": -0.0625
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "HABITAT",
+    "monthRentability": 0.0499,
+    "runningYearRentability": -0.0571
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "MODELO",
+    "monthRentability": 0.0549,
+    "runningYearRentability": -0.0618
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0532,
+    "runningYearRentability": -0.0564
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0556,
+    "runningYearRentability": -0.0489
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "UNO",
+    "monthRentability": 0.0532,
+    "runningYearRentability": -0.0599
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "A",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0526,
+    "runningYearRentability": -0.057
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0442,
+    "runningYearRentability": -0.0278
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "CUPRUM",
+    "monthRentability": 0.041,
+    "runningYearRentability": -0.0376
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "HABITAT",
+    "monthRentability": 0.0415,
+    "runningYearRentability": -0.0259
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "MODELO",
+    "monthRentability": 0.0427,
+    "runningYearRentability": -0.0294
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0426,
+    "runningYearRentability": -0.0258
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0443,
+    "runningYearRentability": -0.0258
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "UNO",
+    "monthRentability": 0.0417,
+    "runningYearRentability": -0.0335
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "B",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0428,
+    "runningYearRentability": -0.0285
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0299,
+    "runningYearRentability": 0.005
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0265,
+    "runningYearRentability": -0.0079
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "HABITAT",
+    "monthRentability": 0.0282,
+    "runningYearRentability": 0.0077
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "MODELO",
+    "monthRentability": 0.0251,
+    "runningYearRentability": -0.0029
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0272,
+    "runningYearRentability": -0.0016
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0288,
+    "runningYearRentability": 0.0051
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "UNO",
+    "monthRentability": 0.0257,
+    "runningYearRentability": -0.0044
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "C",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0282,
+    "runningYearRentability": 0.003
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0142,
+    "runningYearRentability": 0.0226
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0128,
+    "runningYearRentability": 0.0164
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "HABITAT",
+    "monthRentability": 0.0145,
+    "runningYearRentability": 0.0246
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "MODELO",
+    "monthRentability": 0.012,
+    "runningYearRentability": 0.02
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0126,
+    "runningYearRentability": 0.0147
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0152,
+    "runningYearRentability": 0.0249
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "UNO",
+    "monthRentability": 0.0114,
+    "runningYearRentability": 0.021
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "D",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0143,
+    "runningYearRentability": 0.0226
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "CAPITAL",
+    "monthRentability": 0.0029,
+    "runningYearRentability": 0.0379
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "CUPRUM",
+    "monthRentability": 0.0019,
+    "runningYearRentability": 0.0421
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "HABITAT",
+    "monthRentability": 0.0053,
+    "runningYearRentability": 0.0449
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "MODELO",
+    "monthRentability": -0.0001,
+    "runningYearRentability": 0.043
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "PLANVITAL",
+    "monthRentability": 0.0001,
+    "runningYearRentability": 0.03
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "PROVIDA",
+    "monthRentability": 0.0056,
+    "runningYearRentability": 0.0464
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "UNO",
+    "monthRentability": -0.0001,
+    "runningYearRentability": 0.0327
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "fund": "E",
+    "afp": "SISTEMA",
+    "monthRentability": 0.0036,
+    "runningYearRentability": 0.0424
+  }
+]
